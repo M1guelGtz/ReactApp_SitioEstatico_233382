@@ -1,0 +1,13 @@
+#titulo{
+    width: 100%;
+    text-align: center;
+    margin: 30px;
+    background-color: #000000;
+    color: white;
+    padding: 15px;
+    border-radius: 10px 100px 5px;
+    box-shadow: 50px 50px 70px 0 gray;
+    -webkit-box-shadow: 5px 10px 10px gray;
+    -moz-box-shadow: 50px 50px 70px gray;
+    
+}

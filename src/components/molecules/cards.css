@@ -1,0 +1,12 @@
+#card{
+    width: 45%;
+    margin: 2.5%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(127, 255, 212, 0.336);
+    border-radius: 0px 50px 0px 100px;
+    box-shadow: 50px 50px 70px 0 black;
+    -webkit-box-shadow: 5px 10px 10px black;
+    -moz-box-shadow: 50px 50px 70px black;
+    border: 1px solid white;
+}

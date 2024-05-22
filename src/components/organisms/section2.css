@@ -1,0 +1,6 @@
+#cards_section2{
+    width: 100%;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+}

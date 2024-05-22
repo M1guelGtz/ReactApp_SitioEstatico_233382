@@ -1,0 +1,11 @@
+#cards_img_img{
+    width: 100%;
+    border-radius: 0px 50% 0px 100px;
+
+}
+#cards_img{
+    width: 50%;
+    display: flex;
+    flex-flow: wrap;
+    border-radius: 0px 50px 0px 100px;
+}
